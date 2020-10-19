@@ -1,5 +1,8 @@
 ## SUMMARY
 
+# FINAL DATA IS IN A FILE: averages.csc
+
+
 ##Data
 The data was obtained from:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
